@@ -14,14 +14,15 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-0">
-          Hi there! My name is Manoj Chowdhary. I'm aspiring to become a MERN stack developer.
-          Experience in developing responsive web applications using react.js, redux, node.js, express.js, mongoDB, vanilla JavaScript, firebase, HTML, CSS, RESTful Api etc.
+          
+          Hi there! I am skilled MERN Stack developer. 
+          Experience in developing responsive web applications using react.js, redux, node.js, express.js, mongoDB,  JavaScript, firebase, HTML, CSS, RESTful Api etc.
           <br />
           <br />
-          I have worked on several projects which include e-commerce web application, chat application, google search application clone etc. with advanced features.
+          My experience encompasses building efficient, scalable, and user-friendly solutions tailored to solve real-world problems.
           <br />
           <br />
-          I'm constantly striving to improve my skills and stay up to date with the latest industry trends, I'm always eager to take on new challenges and learn something new.
+          I am a fast learner who collaborates closely with clients to transform their ideas into reality.  Let’s work together to bring your vision to life!
           <br />
           <br />
           I'm excited to explore new opportunities that will allow me to utilize my skills and contribute to meaningful projects.
