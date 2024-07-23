@@ -51,6 +51,13 @@ const Portfolio = () => {
       githubsrc: "https://github.com/sanjunasprasad/BrewBuddy_cafeFinderApp",
       description: "Locate coffee shops by categories, names, and ratings. Includes Razorpay for purchases, plus intuitive search, sorting options, and customizable filters for a personalized experience."
     },
+    {
+      id: 7,
+      name: "Task Manager App",
+      src: bb1,
+      githubsrc: "https://github.com/sanjunasprasad/TaskManager_frontend",
+      description: "This task management app features task creation, updating, and drag-and-drop functionality. It includes email/Google authentication, server-side validation, and robust UI/backend."
+    },
   ];
 
   return (
