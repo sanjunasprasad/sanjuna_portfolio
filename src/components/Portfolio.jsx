@@ -6,6 +6,7 @@ import connectify from "../assets/portfolio/connectify.png";
 import netflix from "../assets/portfolio/netflix.png";
 import weather from "../assets/portfolio/weatherapp.png";
 import git from "../assets/portfolio/giticon.png"
+import todo from "../assets/portfolio/todo.jpeg"
 
 const Portfolio = () => {
   const portfolios = [
@@ -54,7 +55,7 @@ const Portfolio = () => {
     {
       id: 7,
       name: "Task Manager App",
-      src: bb1,
+      src: todo,
       githubsrc: "https://github.com/sanjunasprasad/TaskManager_frontend",
       description: "This task management app features task creation, updating, and drag-and-drop functionality. It includes email/Google authentication, server-side validation, and robust UI/backend."
     },
